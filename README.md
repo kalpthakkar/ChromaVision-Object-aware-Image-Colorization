@@ -1,2 +1,2 @@
-Committed on 2023-09-26T12:22:21 
+Committed on 2023-09-26T12:53:30 
 Committer - https://github.com/kalpthakkar/ChromaVision-Object-aware-Image-Colorization
